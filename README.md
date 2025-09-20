@@ -14,7 +14,9 @@ It is used as a building block in language models like ChatGPT and BERT
 
 # How to run
 The project can be run from the train.py file.
+
 After training, a weights will be saved in a .pkl file.
+
 The model can be adjusted in the config.py file.
 
 
