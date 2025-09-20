@@ -1,0 +1,304 @@
+jax.__version__ 0.5.0
+0,1
+jax.device_count() 2
+jax.local_device_count() 2
+jax.devices() [CudaDevice(id=0), CudaDevice(id=1)]
+jax.__version__ 0.5.0
+......
+.......
+0,1
+-----------
+[CudaDevice(id=0), CudaDevice(id=1)] [CudaDevice(id=0), CudaDevice(id=1)]
+---------
+jax.device_count() 2
+==============
+jax.local_device_count() 2
+===================
+jax.devices() [CudaDevice(id=0), CudaDevice(id=1)]
+++++++++++++++++++++++++++
+JAX version: 0.5.0
+Available JAX devices: [CudaDevice(id=0), CudaDevice(id=1)]
+Quadro RTX 8000
+Quadro RTX 8000
+----
+
+PyTorch CUDA Info:
+Torch version: 2.6.0+cu124
+CUDA available: True
+Total GPUs visible to PyTorch: 2
+GPU 0: Quadro RTX 8000
+GPU 1: Quadro RTX 8000
+JAX
+gpu
+<function devices at 0x1514e42fce00>
+special tokens
+tensor([2])
+tensor([3])
+tensor([1])
+special tokens tiktoken
+tensor([82])
+tensor([68])
+tensor([15636])
+special tokens
+tensor([2])
+tensor([3])
+tensor([1])
+special tokens tiktoken
+tensor([82])
+tensor([68])
+tensor([15636])
+Max length of source sentence: 309
+Max length of target sentence: 274
+embedding_src
+embedding_src: (15698, 512)
+embedding_tgt
+embedding_tgt: (22463, 512)
+pe_src
+pe_src: (350, 512)
+pe_tgt
+pe_tgt: (350, 512)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+self_attn_norm
+a: (512,)
+b: (512,)
+cross_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+cross_attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+self_attn_norm
+a: (512,)
+b: (512,)
+cross_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+cross_attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+self_attn_norm
+a: (512,)
+b: (512,)
+cross_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+cross_attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+self_attn_norm
+a: (512,)
+b: (512,)
+cross_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+cross_attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+self_attn_norm
+a: (512,)
+b: (512,)
+cross_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+cross_attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+self_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+self_attn_norm
+a: (512,)
+b: (512,)
+cross_attn
+Wq: (512, 512)
+Wk: (512, 512)
+Wv: (512, 512)
+Wo: (512, 512)
+cross_attn_norm
+a: (512,)
+b: (512,)
+ff
+W1: (512, 2048)
+b1: (2048,)
+W2: (2048, 512)
+b2: (512,)
+ff_norm
+a: (512,)
+b: (512,)
+final_proj
+W, (512, 22463)
+b, (22463,)
+stacks:  6
+amount of parameters:  75521983
