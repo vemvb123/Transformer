@@ -2,7 +2,7 @@
 
 This project is for coding a transformer from scratch.
 
-The transformer was used for language translation though the opus translation dataset.
+The transformer was used for language translation through the opus translation dataset.
 
 The project is explained and detailed in the pdf report.
 
