@@ -1,6 +1,6 @@
 # Transformer
 
-This project is for coding a transformer from scratch.
+This project is for coding a transformer from scratch with JAX.
 
 The transformer was used for language translation through the opus translation dataset.
 
