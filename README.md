@@ -6,6 +6,8 @@ The transformer was used for language translation through the opus translation d
 
 The project is explained and detailed in the pdf report.
 
+rapport_aml_transformer_git.pdf
+
 <img width="521" height="723" alt="image" src="https://github.com/user-attachments/assets/194b847e-8745-4ea4-be45-491168efb0ae" />
 
 
